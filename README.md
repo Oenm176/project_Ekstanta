@@ -6,4 +6,4 @@ Penggunaa dataset kami [Kaggle Page](https://www.kaggle.com/datasets/shariful07/
 ## Pratinjau Cepat
 Lihat pengolahan dataset [Hasil Data Set](data/Student_Mental_Health_V1.csv). 
 
-Lihat pengolahan visualiasi [Hasil Visualisasi Set](data/image.csv).
+Lihat pengolahan visualiasi [Hasil Visualisasi Set](data/image).
