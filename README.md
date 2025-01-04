@@ -4,8 +4,11 @@ Project Ekstanta Tahun 2024 adalah inisiatif mini yang bertujuan untuk mengasah 
 Penggunaa dataset kami [Kaggle Page](https://www.kaggle.com/datasets/shariful07/student-mental-health)
 
 ## Pratinjau Cepat
-Lihat pengolahan dataset [Hasil Data Set](data/Student_Mental_Health_V1.csv). 
+Lihat pengolahan dataset [Hasil Data Set](data/Student_Mental_Health_V1.csv)
 
-Lihat pengolahan visualiasi [Hasil Visualisasi Set](data/image).
+Lihat pengolahan visualiasi [Hasil Visualisasi Set](data/image)
 
 Lihat Kode [Live Editor](https://colab.research.google.com/github/Oenm176/project_ekstanta/blob/main/Data_Visualisation.ipynb#scrollTo=dvBxBjlWzR4a)
+
+## Dokumentasi Kode
+Lihat dokumentasi [wiki](https://github.com/Oenm176/project_ekstanta/wiki)
