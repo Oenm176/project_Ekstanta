@@ -7,3 +7,5 @@ Penggunaa dataset kami [Kaggle Page](https://www.kaggle.com/datasets/shariful07/
 Lihat pengolahan dataset [Hasil Data Set](data/Student_Mental_Health_V1.csv). 
 
 Lihat pengolahan visualiasi [Hasil Visualisasi Set](data/image).
+
+Lihat Kode [Live Editor](https://colab.research.google.com/github/Oenm176/project_ekstanta/blob/main/Data_Visualisation.ipynb#scrollTo=dvBxBjlWzR4a)
